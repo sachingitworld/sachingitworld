@@ -413,13 +413,13 @@
           </span>
         </a>
         
-        <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" style="text-decoration: none;">
+        <a href="https://linkedin.com/in/[https://linkedin.com/in/yourprofile]" style="text-decoration: none;">
           <span style="display: inline-block; background: rgba(10, 102, 194, 0.15); backdrop-filter: blur(10px); padding: 14px 32px; border-radius: 50px; border: 1px solid rgba(10, 102, 194, 0.25); color: #4FC3F7; font-weight: 600; font-size: 15px; letter-spacing: 1px; transition: all 0.3s ease;">
             <img src="https://img.icons8.com/fluency/20/000000/linkedin.png" style="vertical-align: middle; margin-right: 8px;" alt="LinkedIn" /> LinkedIn
           </span>
         </a>
         
-        <a href="mailto:[YOUR_EMAIL]" style="text-decoration: none;">
+        <a href="mailto:[sachinpc156@gmail.com]" style="text-decoration: none;">
           <span style="display: inline-block; background: rgba(209, 72, 54, 0.12); backdrop-filter: blur(10px); padding: 14px 32px; border-radius: 50px; border: 1px solid rgba(209, 72, 54, 0.2); color: #FF8A80; font-weight: 600; font-size: 15px; letter-spacing: 1px; transition: all 0.3s ease;">
             <img src="https://img.icons8.com/fluency/20/000000/gmail.png" style="vertical-align: middle; margin-right: 8px;" alt="Email" /> Email
           </span>
