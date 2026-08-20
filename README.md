@@ -80,9 +80,9 @@
           
           <td width="35%" align="center" style="background: rgba(0, 212, 255, 0.04); backdrop-filter: blur(15px); border-radius: 24px; padding: 20px; border: 1px solid rgba(0, 212, 255, 0.08); box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);">
             <!-- WORKING STATS - Using actual GitHub API -->
-            <img src="https://github-readme-stats.vercel.app/api?username=[sachingitworld]&show_icons=true&hide_border=true&title_color=00D4FF&icon_color=4FC3F7&text_color=e0e0e0&bg_color=0d1117&hide=issues&count_private=true&cache_seconds=1800" width="100%" alt="GitHub Stats Mini" />
+            <img src="https://github-readme-stats.vercel.app/api?username=sachingitworld&show_icons=true&hide_border=true&title_color=00D4FF&icon_color=4FC3F7&text_color=e0e0e0&bg_color=0d1117&hide=issues&count_private=true&cache_seconds=1800" width="100%" alt="GitHub Stats Mini" />
             <br /><br />
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=[sachingitworld]&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=4FC3F7&currStreakNum=e0e0e0&sideNums=e0e0e0&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=888888&background=0d1117&cache_seconds=1800" width="100%" alt="Contribution Streak" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachingitworld&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=4FC3F7&currStreakNum=e0e0e0&sideNums=e0e0e0&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=888888&background=0d1117&cache_seconds=1800" width="100%" alt="Contribution Streak" />
             <br /><br />
             <div style="background: rgba(0, 212, 255, 0.06); border-radius: 16px; padding: 12px; border: 1px solid rgba(0, 212, 255, 0.08);">
               <span style="color: #4FC3F7; font-size: 13px;">📍 Based in India</span><br />
@@ -184,7 +184,7 @@
                 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
                 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
               </div>
-              <a href="https://github.com/[sachingitworld]/aws-cloud-practice" style="text-decoration: none;">
+              <a href="https://github.com/sachingitworld/aws-cloud-practice" style="text-decoration: none;">
                 <span style="display: inline-block; background: linear-gradient(135deg, rgba(0, 212, 255, 0.15), rgba(124, 77, 255, 0.15)); padding: 10px 28px; border-radius: 50px; color: #00D4FF; border: 1px solid rgba(0, 212, 255, 0.2); font-size: 14px; font-weight: 600; letter-spacing: 1px; transition: all 0.3s ease;">
                   🔗 View Repository
                 </span>
@@ -207,7 +207,7 @@
                 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
                 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
               </div>
-              <a href="https://github.com/[sachingitworld]/college-hybrid-cloud" style="text-decoration: none;">
+              <a href="https://github.com/sachingitworld/college-hybrid-cloud" style="text-decoration: none;">
                 <span style="display: inline-block; background: linear-gradient(135deg, rgba(0, 212, 255, 0.15), rgba(124, 77, 255, 0.15)); padding: 10px 28px; border-radius: 50px; color: #00D4FF; border: 1px solid rgba(0, 212, 255, 0.2); font-size: 14px; font-weight: 600; letter-spacing: 1px; transition: all 0.3s ease;">
                   🔗 View Repository
                 </span>
@@ -230,7 +230,7 @@
                 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
                 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
               </div>
-              <a href="https://github.com/[sachingitworld]/kde-customization" style="text-decoration: none;">
+              <a href="https://github.com/sachingitworld/kde-customization" style="text-decoration: none;">
                 <span style="display: inline-block; background: linear-gradient(135deg, rgba(0, 212, 255, 0.15), rgba(124, 77, 255, 0.15)); padding: 10px 28px; border-radius: 50px; color: #00D4FF; border: 1px solid rgba(0, 212, 255, 0.2); font-size: 14px; font-weight: 600; letter-spacing: 1px; transition: all 0.3s ease;">
                   🔗 View Repository
                 </span>
@@ -262,20 +262,20 @@
       <!-- Main Stats -->
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 20px;">
         <div style="flex: 1; min-width: 280px; background: rgba(0, 212, 255, 0.04); backdrop-filter: blur(15px); border-radius: 20px; padding: 20px; border: 1px solid rgba(0, 212, 255, 0.08);">
-          <img src="https://github-readme-stats.vercel.app/api?username=[sachingitworld]&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=4FC3F7&text_color=e0e0e0&bg_color=0d1117&hide=issues&rank_icon=github&include_all_commits=true&cache_seconds=1800" width="100%" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=sachingitworld&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=4FC3F7&text_color=e0e0e0&bg_color=0d1117&hide=issues&rank_icon=github&include_all_commits=true&cache_seconds=1800" width="100%" alt="GitHub Stats" />
         </div>
         <div style="flex: 1; min-width: 280px; background: rgba(0, 212, 255, 0.04); backdrop-filter: blur(15px); border-radius: 20px; padding: 20px; border: 1px solid rgba(0, 212, 255, 0.08);">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=[sachingitworld]&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=4FC3F7&currStreakNum=e0e0e0&sideNums=e0e0e0&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=888888&background=0d1117&cache_seconds=1800" width="100%" alt="Contribution Streak" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachingitworld&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=4FC3F7&currStreakNum=e0e0e0&sideNums=e0e0e0&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=888888&background=0d1117&cache_seconds=1800" width="100%" alt="Contribution Streak" />
         </div>
       </div>
       
       <!-- Languages & Trophies -->
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
         <div style="flex: 1; min-width: 280px; background: rgba(0, 212, 255, 0.04); backdrop-filter: blur(15px); border-radius: 20px; padding: 20px; border: 1px solid rgba(0, 212, 255, 0.08);">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[sachingitworld]&layout=compact&hide_border=true&title_color=00D4FF&text_color=e0e0e0&bg_color=0d1117&langs_count=8&hide=html,css&cache_seconds=1800" width="100%" alt="Most Used Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachingitworld&layout=compact&hide_border=true&title_color=00D4FF&text_color=e0e0e0&bg_color=0d1117&langs_count=8&hide=html,css&cache_seconds=1800" width="100%" alt="Most Used Languages" />
         </div>
         <div style="flex: 1; min-width: 280px; background: rgba(0, 212, 255, 0.04); backdrop-filter: blur(15px); border-radius: 20px; padding: 20px; border: 1px solid rgba(0, 212, 255, 0.08);">
-          <img src="https://github-profile-trophy.vercel.app/?username=[sachingitworld]&theme=darkhub&no-frame=true&row=2&column=3&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
+          <img src="https://github-profile-trophy.vercel.app/?username=sachingitworld&theme=darkhub&no-frame=true&row=2&column=3&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
         </div>
       </div>
     </div>
@@ -375,7 +375,7 @@
       </h2>
       
       <div style="background: rgba(0, 212, 255, 0.04); backdrop-filter: blur(15px); border-radius: 20px; padding: 20px; border: 1px solid rgba(0, 212, 255, 0.08);">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=[sachingitworld]&bg_color=0d1117&color=00D4FF&line=4FC3F7&point=00B4DB&area=true&hide_border=true&area_color=00D4FF&custom_title=Contribution%20Activity%20Graph&radius=16" width="100%" alt="Contribution Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachingitworld&bg_color=0d1117&color=00D4FF&line=4FC3F7&point=00B4DB&area=true&hide_border=true&area_color=00D4FF&custom_title=Contribution%20Activity%20Graph&radius=16" width="100%" alt="Contribution Graph" />
       </div>
       
       <br />
@@ -383,7 +383,7 @@
       <!-- Snake Animation (Optional) -->
       <!-- 
       <div style="background: rgba(0, 212, 255, 0.04); backdrop-filter: blur(15px); border-radius: 20px; padding: 20px; border: 1px solid rgba(0, 212, 255, 0.08);">
-        <img src="https://raw.githubusercontent.com/[sachingitworld]/[sachingitworld]/output/github-snake-dark.svg" width="100%" alt="Snake Animation" />
+        <img src="https://raw.githubusercontent.com/sachingitworld/sachingitworld/output/github-snake-dark.svg" width="100%" alt="Snake Animation" />
       </div>
       -->
     </div>
@@ -407,27 +407,21 @@
       </h2>
       
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-        <a href="https://github.com/[sachingitworld]" style="text-decoration: none;">
+        <a href="https://github.com/sachingitworld" style="text-decoration: none;">
           <span style="display: inline-block; background: rgba(0, 212, 255, 0.08); backdrop-filter: blur(10px); padding: 14px 32px; border-radius: 50px; border: 1px solid rgba(0, 212, 255, 0.15); color: #00D4FF; font-weight: 600; font-size: 15px; letter-spacing: 1px; transition: all 0.3s ease;">
             <img src="https://img.icons8.com/fluency/20/000000/github.png" style="vertical-align: middle; margin-right: 8px;" alt="GitHub" /> GitHub
           </span>
         </a>
         
-        <a href="https://linkedin.com/in/[https://linkedin.com/in/yourprofile]" style="text-decoration: none;">
+        <a href="https://linkedin.com/in/sachingitworld" style="text-decoration: none;">
           <span style="display: inline-block; background: rgba(10, 102, 194, 0.15); backdrop-filter: blur(10px); padding: 14px 32px; border-radius: 50px; border: 1px solid rgba(10, 102, 194, 0.25); color: #4FC3F7; font-weight: 600; font-size: 15px; letter-spacing: 1px; transition: all 0.3s ease;">
             <img src="https://img.icons8.com/fluency/20/000000/linkedin.png" style="vertical-align: middle; margin-right: 8px;" alt="LinkedIn" /> LinkedIn
           </span>
         </a>
         
-        <a href="mailto:[sachinpc156@gmail.com]" style="text-decoration: none;">
+        <a href="mailto:sachingitworld@gmail.com" style="text-decoration: none;">
           <span style="display: inline-block; background: rgba(209, 72, 54, 0.12); backdrop-filter: blur(10px); padding: 14px 32px; border-radius: 50px; border: 1px solid rgba(209, 72, 54, 0.2); color: #FF8A80; font-weight: 600; font-size: 15px; letter-spacing: 1px; transition: all 0.3s ease;">
             <img src="https://img.icons8.com/fluency/20/000000/gmail.png" style="vertical-align: middle; margin-right: 8px;" alt="Email" /> Email
-          </span>
-        </a>
-        
-        <a href="https://[YOUR_PORTFOLIO_URL]" style="text-decoration: none;">
-          <span style="display: inline-block; background: rgba(124, 77, 255, 0.12); backdrop-filter: blur(10px); padding: 14px 32px; border-radius: 50px; border: 1px solid rgba(124, 77, 255, 0.2); color: #B388FF; font-weight: 600; font-size: 15px; letter-spacing: 1px; transition: all 0.3s ease;">
-            <img src="https://img.icons8.com/fluency/20/000000/domain.png" style="vertical-align: middle; margin-right: 8px;" alt="Portfolio" /> Portfolio
           </span>
         </a>
       </div>
