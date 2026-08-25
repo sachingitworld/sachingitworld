@@ -140,7 +140,7 @@ Complete Linux desktop transformation with KDE Plasma themes and automation scri
   <a href="https://github.com/sachingitworld">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
   </a>
-  <a href="https://linkedin.com/in/sachingitworld">
+  <a href="https://www.linkedin.com/in/sachin-b-engineer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
   <a href="mailto:sachingitworld@gmail.com">
