@@ -104,7 +104,7 @@
             background-clip: text;
             text-shadow: 0 0 80px rgba(108, 99, 255, 0.15);
           ">
-            YOUR NAME
+            B.Sachin
           </h1>
 
           <div style="
@@ -424,7 +424,7 @@
           gap: 18px;
         ">
           <!-- Project 1 -->
-          <a href="https://github.com/yourusername/project1" style="text-decoration: none; display: block;">
+          <a href="https://github.com/sachingitworld/project1" style="text-decoration: none; display: block;">
             <div style="
               background: rgba(255,255,255,0.03);
               border: 1px solid rgba(255,255,255,0.06);
@@ -484,7 +484,7 @@
           </a>
 
           <!-- Project 2 -->
-          <a href="https://github.com/yourusername/project2" style="text-decoration: none; display: block;">
+          <a href="https://github.com/sachingitworld/project2" style="text-decoration: none; display: block;">
             <div style="
               background: rgba(255,255,255,0.03);
               border: 1px solid rgba(255,255,255,0.06);
@@ -595,7 +595,7 @@
             padding: 16px;
             border: 1px solid rgba(255,255,255,0.04);
           ">
-            <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_border=true&bg_color=0d111700&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff80&count_private=true&hide=contribs" 
+            <img src="https://github-readme-stats.vercel.app/api?username=sachingitworld&show_icons=true&hide_title=true&hide_border=true&bg_color=0d111700&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff80&count_private=true&hide=contribs" 
                  alt="GitHub Stats" 
                  style="width: 100%; max-width: 400px; height: auto;" />
           </div>
@@ -607,7 +607,7 @@
             padding: 16px;
             border: 1px solid rgba(255,255,255,0.04);
           ">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&bg_color=0d111700&title_color=6C63FF&text_color=ffffff80&langs_count=6" 
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachingitworld&layout=compact&hide_border=true&bg_color=0d111700&title_color=6C63FF&text_color=ffffff80&langs_count=6" 
                  alt="Top Languages" 
                  style="width: 100%; max-width: 400px; height: auto;" />
           </div>
@@ -622,7 +622,7 @@
             border: 1px solid rgba(255,255,255,0.04);
             text-align: center;
           ">
-            <img src="https://ghchart.rshah.org/yourusername" 
+            <img src="https://ghchart.rshah.org/sachingitworld" 
                  alt="GitHub Contributions Chart" 
                  style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
             <div style="
@@ -659,7 +659,7 @@
         gap: 40px;
         flex-wrap: wrap;
       ">
-        <a href="https://github.com/yourusername" style="
+        <a href="https://github.com/sachingitworld" style="
           font-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
           font-size: 0.9rem;
           color: rgba(255,255,255,0.6);
