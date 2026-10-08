@@ -152,7 +152,7 @@ Real-time system monitoring with TUI and web interface.
 <p align="center">
   <a href="https://github.com/sachingitworld"><img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-FF6584?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+  <a href="mailto:sachinpc156@gmail.com"><img src="https://img.shields.io/badge/Email-FF6584?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
